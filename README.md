@@ -11,5 +11,5 @@ A simple machine learning project that predicts the species of an Iris flower (S
 ## Setup Instructions
 1. Clone the repository or download the folder:
    ```bash
-   git clone https://github.com/justindbiju/iris-flower-ml.git
+   git clone https://github.com/JustinDBiju/iris-flower-ml.git
    cd iris-flower-ml
